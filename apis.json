@@ -1,0 +1,63 @@
+{
+    "name": "Ribbon",
+    "description": "",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1734-ribbon.jpg",
+    "tags": [
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/ribbon\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Ribbon",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1734-ribbon.jpg",
+            "humanURL": "https:\/\/www.ribbon.co\/api",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/ribbon-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/ribbon-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "API.json - Authoritative",
+            "url": "https:\/\/raw.githubusercontent.com\/picsoung\/apis.json\/master\/ribbon\/apis.json"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.ribbon.co"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/ribbon"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/ribbon"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/ribbon"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/ribbon"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.ribbon.co\/api"
+        }
+    ]
+}
